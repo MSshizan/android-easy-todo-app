@@ -14,3 +14,5 @@ A simple Android Todo app built with Jetpack Compose, Room database, and Hilt fo
 
 ---
 ## ScreenShots
+
+![image alt](https://github.com/MSshizan/android-easy-todo-app/blob/ba5b7cf0c942046e4295dff988659eb9c46d1c54/screenShots.png)
